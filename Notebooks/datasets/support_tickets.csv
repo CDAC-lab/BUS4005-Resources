@@ -1,0 +1,7 @@
+ticket_id,submitted_by,priority,ticket_text
+T001,sales@northwind.example,high,Our sales dashboard stopped loading after yesterday's deployment. Need urgent help before the client meeting.
+T002,ops@northwind.example,medium,Please add two new starters to the payroll platform and confirm their access permissions.
+T003,finance@northwind.example,high,Invoice export from the ERP is failing and month-end reconciliation is blocked.
+T004,hr@northwind.example,low,Can someone explain the new leave approval workflow for managers? We need a quick walkthrough.
+T005,it@northwind.example,medium,Laptop deliveries for the Brisbane office have the wrong asset tags. Procurement may need to intervene.
+T006,marketing@northwind.example,medium,We need help connecting campaign leads from HubSpot into the CRM and mapping the fields correctly.
